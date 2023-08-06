@@ -7,6 +7,8 @@
 
 A working React portfolio for me to host my work.
 
+![Screenshot](src/assets/images/ReactPortfolioSc.png)
+
 ## License
 
 This project is licensed under the MIT License
