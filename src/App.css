@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.flashing-underscore {
+  animation: flashing 1s infinite;
+}
+
+@keyframes flashing {
+  0%, 100% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}

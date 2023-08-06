@@ -10,21 +10,21 @@ const LandingPage = () => {
       {/* Header */}
 
       {/* About Section */}
-      <div className="bg-white py-12 rounded-lg shadow-md mb-8">
+      <div className="bg-accent py-12 rounded-lg shadow-md mb-8">
         <div className="container mx-auto">
           <AboutMe />
         </div>
       </div>
 
       {/* Portfolio Section */}
-      <div className="bg-gray-100 py-12 rounded-lg shadow-md mb-8">
+      <div className="bg-primary py-12 rounded-lg shadow-md mb-8">
         <div className="container mx-auto">
           <Portfolio />
         </div>
       </div>
 
       {/* Contact Section */}
-      <div className="bg-white py-12 rounded-lg shadow-md">
+      <div className="bg-accent py-12 rounded-lg shadow-md">
         <div className="container mx-auto">
           <Contact />
         </div>

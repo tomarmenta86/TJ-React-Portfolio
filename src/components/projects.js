@@ -1,15 +1,21 @@
 const portfolioItems = [
     {
-      title: 'Project 1',
-      description: 'This is the description of Project 1.',
-      imageUrl: 'https://example.com/project1.jpg',
-      link: 'https://example.com/project1',
+      title: 'My Plant Planner',
+      description: '//Personal plant index',
+      imageUrl: require('../assets/images/MPPsc.png'),
+      link: 'https://myplantplanner.github.io/MyPlantPlanner/',
     },
     {
-      title: 'Project 2',
-      description: 'This is the description of Project 2.',
-      imageUrl: 'https://example.com/project2.jpg',
-      link: 'https://example.com/project2',
+      title: 'EventHorizon',
+      description: '//Event Management system',
+      imageUrl: require('../assets/images/EHsc.png'),
+      link: 'https://mighty-sands-41780-17537002c1ec.herokuapp.com/',
+    },
+    {
+      title: 'Project 3',
+      description: '//Coming Soon!',
+      imageUrl: require('../assets/images/p3placeholder.png'),
+      link: '',
     },
   ];
   

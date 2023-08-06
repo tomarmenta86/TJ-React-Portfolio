@@ -1,8 +1,10 @@
 import React from 'react';
 
 const Contact = () => {
+  const recipientEmail = 'tomarmenta86@gmail.com';
+  
   return (
-    <section className="bg-gray-100 py-12">
+    <section className="bg-primary px-12 py-12">
     <div className="container mx-auto">
       <h2 className="text-2xl font-bold mb-4">Contact</h2>
       <form className="grid grid-cols-2 gap-4">
@@ -31,9 +33,12 @@ const Contact = () => {
           ></textarea>
         </div>
         <div className="col-span-2">
-          <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-            Submit
-          </button>
+        <a
+              href={`mailto:${recipientEmail}`}
+              className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+            >
+              Open Email App
+            </a>
         </div>
       </form>
     </div>
