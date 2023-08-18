@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/TJ-React-Portfolio/static/css/main.05921994.css",
-    "main.js": "/TJ-React-Portfolio/static/js/main.d85991bc.js",
+    "main.js": "/TJ-React-Portfolio/static/js/main.e785a8f6.js",
     "static/js/787.fdec9e42.chunk.js": "/TJ-React-Portfolio/static/js/787.fdec9e42.chunk.js",
     "static/media/EHsc.png": "/TJ-React-Portfolio/static/media/EHsc.d26ccdc7ce74a082a928.png",
     "static/media/MPPsc.png": "/TJ-React-Portfolio/static/media/MPPsc.95437858c004c944d3b5.png",
     "static/media/fa-solid-900.ttf": "/TJ-React-Portfolio/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
     "static/media/fa-brands-400.ttf": "/TJ-React-Portfolio/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/DBDsc.png": "/TJ-React-Portfolio/static/media/DBDsc.2d9c47df813c3e28c88d.png",
     "static/media/fa-solid-900.woff2": "/TJ-React-Portfolio/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
     "static/media/fa-brands-400.woff2": "/TJ-React-Portfolio/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
     "static/media/TJ Resume - Portfolio.pdf": "/TJ-React-Portfolio/static/media/TJ Resume - Portfolio.ff51906e8246440e59a8.pdf",
@@ -16,11 +17,11 @@
     "static/media/fa-v4compatibility.woff2": "/TJ-React-Portfolio/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
     "index.html": "/TJ-React-Portfolio/index.html",
     "main.05921994.css.map": "/TJ-React-Portfolio/static/css/main.05921994.css.map",
-    "main.d85991bc.js.map": "/TJ-React-Portfolio/static/js/main.d85991bc.js.map",
+    "main.e785a8f6.js.map": "/TJ-React-Portfolio/static/js/main.e785a8f6.js.map",
     "787.fdec9e42.chunk.js.map": "/TJ-React-Portfolio/static/js/787.fdec9e42.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.05921994.css",
-    "static/js/main.d85991bc.js"
+    "static/js/main.e785a8f6.js"
   ]
 }
