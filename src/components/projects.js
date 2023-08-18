@@ -12,10 +12,10 @@ const portfolioItems = [
       link: 'https://mighty-sands-41780-17537002c1ec.herokuapp.com/',
     },
     {
-      title: 'Project 3',
-      description: '//Coming Soon!',
-      imageUrl: require('../assets/images/p3placeholder.png'),
-      link: '',
+      title: 'DevsByDesign',
+      description: '//Project collaboration forum',
+      imageUrl: require('../assets/images/DBDsc.png'),
+      link: 'https://git.heroku.com/devsbydesign.git',
     },
   ];
   
