@@ -23,7 +23,7 @@ const Footer = () => {
           </a>
         </div>
         <p className="text-center mt-4">
-          © {new Date().getFullYear()} My Portfolio. All rights reserved.
+          © {new Date().getFullYear()} TJSanmai. All rights reserved.
         </p>
       </div>
     </footer>
